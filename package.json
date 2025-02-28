@@ -1,0 +1,19 @@
+{
+  "name": "test-desktop-nodejs",
+  "version": "1.0.0",
+  "description": "test nodejs on duy's pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "duy",
+    "be"
+  ],
+  "author": "huy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
